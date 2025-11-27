@@ -1,4 +1,4 @@
-<h1 align="center"> LunarOS/PynuxOS </h1>
+<h1 align="center"> Pynux Tech Solutions </h1>
 
 ---
 
