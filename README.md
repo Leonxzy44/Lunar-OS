@@ -2,7 +2,9 @@
 
 ---
 
-Software made in python and json for database.
+Repository of **Pynux Tech Solutions**
+
+Pynux OS made in **python??, **.bat**, **terminal** and **json**.
 
 ---
 
