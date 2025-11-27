@@ -4,7 +4,7 @@
 
 Repository of **Pynux Tech Solutions**
 
-Pynux OS made in **python??, **.bat**, **terminal** and **json**.
+Pynux OS made in **python**, **.bat**, **terminal** and **json**.
 
 ---
 
